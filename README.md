@@ -1,5 +1,3 @@
-# Cards-Slidser-Swiper.js
-Responsive Slider images with Swiper Js  Using HTML CSS &amp; JavaScript ,It contains beautiful cards in dark mode and 3D images.
 # Cards Slidser Swiper.js
 
 - Responsive Card Slider Using HTML CSS & JavaScript
