@@ -5,6 +5,8 @@
 - Slider images with Swiper Js.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- https://swiperjs.com/swiper-api 
+- https://swiperjs.com/demos
 
 ## Cards Slidser Swiper.js(1)
 ![image](https://github.com/Mahrous-Gamal/Cards-Slidser-Swiper.js/assets/105131896/e11b6b09-714f-4d6d-95b6-565f34394b44)
